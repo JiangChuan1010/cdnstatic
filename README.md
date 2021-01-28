@@ -1,0 +1,2 @@
+# cdnstatic
+jsdeliver cdnstatic
